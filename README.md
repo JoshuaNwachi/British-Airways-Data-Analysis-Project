@@ -23,9 +23,9 @@ This project focuses on analyzing customer reviews and building a predictive mod
 <img width="980" alt="Screenshot 2024-06-23 at 20 04 28" src="https://github.com/JoshuaNwachi/British-Airways-Data-Analysis-Project/assets/43007969/dda3445b-294b-4649-a3e4-361e6380a1b7">
 
 ## Notebooks
-- **British_Airways_Sentiment_Analysis.ipynb**: Contains the complete workflow for scraping, cleaning, and analyzing customer reviews.
+- **British_Airways_Sentiment_Analysis_task.ipynb**: Contains the complete workflow for scraping, cleaning, and analyzing customer reviews.
 - **Predictive_Model.ipynb**: Includes the data exploration, preparation, and training of the predictive model for customer bookings.
-- **getting_started.ipynb**: Initial notebook provided for dataset exploration and basic statistics.
+- **Web Scraping.ipynb**: Initial notebook provided for dataset exploration and basic statistics.
 
 ## Results and Impact
 - **Sentiment Analysis**: Provided insights into customer perceptions, helping British Airways identify strengths and areas for improvement in their services.
