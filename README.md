@@ -1,6 +1,3 @@
-<img width="1012" alt="Screenshot 2024-06-23 at 20 04 14" src="https://github.com/JoshuaNwachi/British-Airways-Data-Analysis-Project/assets/43007969/317f1d73-0080-423b-b2c2-c81c0fa4a4a7">Sure! Here is a more concise README file write-up focusing on the project details:
-
----
 
 # British Airways Data Analysis Project
 
