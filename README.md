@@ -1,5 +1,5 @@
 
-# British Airways Data Analysis Project
+# British Airways Data Science Project
 
 ## Project Overview
 This project focuses on analyzing customer reviews and building a predictive model for customer bookings for British Airways. The project is divided into two main tasks:
